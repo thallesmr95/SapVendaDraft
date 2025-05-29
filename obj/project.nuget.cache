@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LcDy3Iyew1w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trodrigues\\Desktop\\Projeto Service Layer\\SapVendaDraft\\SapVendaDraft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trodrigues\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\trodrigues\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

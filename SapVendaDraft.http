@@ -1,0 +1,6 @@
+@SapVendaDraft_HostAddress = http://localhost:5266
+
+GET {{SapVendaDraft_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

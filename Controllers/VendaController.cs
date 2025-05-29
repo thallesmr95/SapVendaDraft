@@ -26,8 +26,8 @@ namespace SapVendaDraft.Controllers
                 // 1. Autenticar na Service Layer
                 var loginData = new
                 {
-                    UserName = "manager",
-                    Password = "ramo01",
+                    UserName = "teste",
+                    Password = "1234",
                     CompanyDB = "INTERWAY"
                 };
 
